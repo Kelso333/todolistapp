@@ -1,6 +1,6 @@
 # todolistapp
 
-This app lets users create a to-do list. They can add a todo, remove, and complete.
+This app lets users create a to-do list. They can add, remove, and complete a todo.
 
 Technologies used:<br>
 HTML<br>
